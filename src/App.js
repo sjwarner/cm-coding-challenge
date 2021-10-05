@@ -1,11 +1,10 @@
 import './App.css';
+import SearchPage from "./SearchPage";
 
 function App() {
-  return (
-    <div>
-      Coming soon!
-    </div>
-  );
+    return (
+        <SearchPage />
+    );
 }
 
 export default App;
